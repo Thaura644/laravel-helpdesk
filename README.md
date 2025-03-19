@@ -1,5 +1,30 @@
 
 ---
+## Screenshots
+
+ -**Register a ticket/request for help**
+    ![user](/public/img/1.png)
+
+ -**next:**   
+    ![user](/public/img/2.png)
+
+  -**next:**   
+    ![user](/public/img/3.png)
+
+  -**next:**   
+    ![user](/public/img/4.png)
+
+  -**next:**   
+    ![user](/public/img/5.png)
+
+  -**next:**   
+    ![user](/public/img/6.png)
+
+  -**next:**   
+    ![user](/public/img/7.png)
+
+  -**next:**   
+    ![user](/public/img/8.png)
 
 ---
 
@@ -22,10 +47,4 @@ Basically, feel free to use and re-use any way you want.
 
 ---
 
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+## More from @thaura644
