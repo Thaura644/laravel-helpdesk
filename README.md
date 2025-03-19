@@ -3,7 +3,6 @@
 ## Screenshots
 
  -**Register a ticket/request for help**
-
     ![user](/public/img/1.png)
 
  -**next:**   
